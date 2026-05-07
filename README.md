@@ -79,12 +79,7 @@ Studying **Computer Science and Technology** in China 🇨🇳
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsdmlk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://streak-stats.demolab.com?user=nsdmlk&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdmlk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
