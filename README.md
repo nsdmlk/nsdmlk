@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Ilya Emelyanov · @nsdmik<br><br>---<br><br>### What I'm doing now<br><br>- 🎓 Studying Computer science and Technology in China<br><br>---<br><br>### Technical skills<br><br>| Area | Tools / Languages |<br>|------|-------------------|<br>| Programming | Python, Java, C (basics), HTML/CSS |<br>| Backend | Java (servlets, OOP), basic SQL |<br>| Frontend | HTML, CSS|<br>| ML / Data Science | Pandas, NumPy, scikit-learn |<br>| Tools | Git, Docker (basics) |<br><br>---<br><br>### Languages<br><br>| Language | Level |<br>|----------|-------|<br>| Russian | Native |<br>| Chinese | HSK4 |<br>| English | C1 |<br><br>---<br><br>### Find me<br><br>- 📧 nsdmik@yandex.ru<br>- https:/t.me/KantervilleGhost
+What I'm doing now<br><br>- 🎓 Studying Computer science and Technology in China<br><br>Languages<br><br>| Russian | Native |<br>| Chinese | HSK4 |<br>| English | C1 |<br><br>Find me<br><br>- 📧 nsdmik@yandex.ru<br>- https:/t.me/KantervilleGhost
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=nsdmlk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nsdmlk&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nsdmlk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nsdmlk&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nsdmlk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
