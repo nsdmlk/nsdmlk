@@ -8,7 +8,9 @@
 
 ### 🎓 What I'm doing now
 
-Studying **Computer Science and Technology** in China 🇨🇳
+Studying in **China** 🇨🇳
+**B.Sc. Computer Science** - **Beijing Institute of Technology** (BIT), Class of 2030
+**First-Prize Scholarship** recipient
 
 ### 🌐 Languages
 
