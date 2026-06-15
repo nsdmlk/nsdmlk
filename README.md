@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=6E96F7&center=true&vCenter=true&random=false&width=800&lines=Hey+there!+I'm+Kanterville+Ghost+%F0%9F%91%BB;Computer+Science+%26+Technology+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&weight=800&size=30&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&random=false&width=800&lines=Hey+there!+I'm+Kanterville+Ghost+%F0%9F%91%BB;Computer+Science+%26+Technology+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,8 +11,6 @@
 Studying in **China** 🇨🇳
 
 **B.Sc. Computer Science** - **Beijing Institute of Technology** (BIT), Class of 2030
-
-**First-Prize Scholarship** recipient
 
 ### 🌐 Languages
 
@@ -83,6 +81,12 @@ Studying in **China** 🇨🇳
     <img src="https://leetcard.jacoblin.cool/nsdmlk?theme=dark&font=Fira%20Code&extension=activity" alt="LeetCode Stats" />
   </a>
 </div>
+
+---
+
+## Activities
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nsdmlk&theme=react-dark&hide_border=true)
 
 ---
 
