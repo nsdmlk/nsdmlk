@@ -103,3 +103,29 @@ I'm a **Computer Science** student at Beijing Institute of Technology, splitting
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/nsdmlk?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Stats" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bd93f9,50:ff79c6,100:8be9fd&height=4&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nsdmlk/nsdmlk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bd93f9,50:ff79c6,100:8be9fd&height=4&section=footer&text=&fontSize=0&animation=fadeIn" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=36&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=400&lines=%E2%9C%A7+thanks+for+visiting+%E2%9C%A7" alt="goodbye" />
+</div>
+
+<br>
