@@ -74,7 +74,7 @@
 
 <div align="center">
   <h3>🛠️ Current Projects</h3>
-  
+  <br>
   <a href="https://github.com/nsdmlk/SmallGBM">
     <img src="https://img.shields.io/badge/SmallGBM-gradient%20boosting%20%7C%20PyPI%20%7C%20scikit--learn%20compatible-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
   </a>
@@ -83,19 +83,19 @@
   
   <br><br>
   
-  <a href="https://github.com/K0nKyR7/Rubium">
-    <img src="https://img.shields.io/badge/Rubium-web%20platform%20%7C%20Supabase%20%7C%20DeepSeek%20API%20%7C%20Python-4B0082?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://github.com/nsdmlk/sberautopodpiska-ml">
+    <img src="https://img.shields.io/badge/SberAutoSubsc-ML%20model%20%7C%20LightGBM%20%7C%20FastAPI%20%7C%20Docker-4B0082?style=for-the-badge&logo=scikitlearn&logoColor=white">
   </a>
   <br>
-  <i>full-stack platform for online school startup — backend, AI integration, frontend</i>
+  <i>binary classification model for car subscription platform — ROC-AUC 0.706, 1.86M sessions processed</i>
   
   <br><br>
   
   <a href="https://github.com/qqwozz/ex_prac">
-    <img src="https://img.shields.io/badge/ex__prac-AI%20training%20module%20%7C%20Python%20%7C%20Go-2E8B57?style=for-the-badge&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/Rubium-web%20platform%20%7C%20Supabase%20%7C%20DeepSeek%20API%20%7C%20Python-2E8B57?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <br>
-  <i>adaptive learning module with AI — Python + Go, part of Rubium ecosystem</i>
+  <i>full-stack educational platform — exam prep ecosystem with AI hints, analytics, and collaborative notebooks</i>
 </div>
 
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
