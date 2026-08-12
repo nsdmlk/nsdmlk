@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:bd93f9,50:ff79c6,100:8be9fd&height=220&section=header&text=Emelyanov%20Ilya&fontSize=65&fontColor=f8f8f2&fontAlignY=40&desc=%E2%9C%A7%20ml%20%C2%B7%20backend%20%C2%B7%20pypi%20%E2%9C%A7&descSize=15&descColor=f8f8f2&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:bd93f9,50:ff79c6,100:8be9fd&height=220&section=header&text=Emelyanov%20Ilya&fontSize=65&fontColor=f8f8f2&fontAlignY=40&desc=%E2%9C%A7%20ml%20%C2%B7%20research%20%C2%B7%20pypi%20%E2%9C%A7&descSize=15&descColor=f8f8f2&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=520&lines=%F0%9F%94%AE+ml+%C2%B7+backend+%C2%B7+open+source;%F0%9F%93%A6+smallgbm+on+PyPI;%F0%9F%A7%A0+ml+%C2%B7+data+%C2%B7+pipelines;%F0%9F%92%BB+building+backend+systems" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=520&lines=%F0%9F%94%AE+ml+%C2%B7+research+%C2%B7+open+source;%F0%9F%93%9A+smallgbm+%C2%B7+zenodo+preprint;%F0%9F%A7%A0+ml+%C2%B7+data+%C2%B7+pipelines;%F0%9F%92%BB+building+backend+systems" alt="typing" />
 
 <br>☾<i>"Clean code is the best thing you can do for future self."</i> ☾
 
@@ -24,6 +24,10 @@
 
   <a href="https://pypi.org/user/KantervilleGhost/">
     <img src="https://img.shields.io/badge/PyPI-000000?style=for-the-badge&logo=pypi&logoColor=white">
+  </a>
+
+  <a href="https://doi.org/10.5281/zenodo.21905013">
+    <img src="https://img.shields.io/badge/Zenodo-000000?style=for-the-badge&logo=zenodo&logoColor=white">
   </a>
 
   <a href="https://leetcode.com/nsdmlk">
@@ -73,13 +77,29 @@
 <br>
 
 <div align="center">
-  <h3>🛠️ Current Projects</h3>
+  <h3>📚 Research</h3>
+  <br>
+  <a href="https://doi.org/10.5281/zenodo.21905013">
+    <img src="https://img.shields.io/badge/SmallGBM-Zenodo%20Preprint%20%7C%20Bayesian%20GBM%20%7C%20small%20data-8A2BE2?style=for-the-badge&logo=zenodo&logoColor=white">
+  </a>
+  <br>
+  <i>SmallGBM: Gradient Boosting with Bayesian Leaf Regularization for Small-Sample Tabular Data</i>
+  <br>
+  <i>Emelyanov, I. (2026) · DOI: 10.5281/zenodo.21905013</i>
+</div>
+
+<hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+
+<br>
+
+<div align="center">
+  <h3>🛠️ Projects</h3>
   <br>
   <a href="https://github.com/nsdmlk/SmallGBM">
     <img src="https://img.shields.io/badge/SmallGBM-gradient%20boosting%20%7C%20PyPI%20%7C%20scikit--learn%20compatible-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
   </a>
   <br>
-  <i>gradient boosting optimized for small datasets — published on PyPI, outperforms XGBoost/LightGBM at n &lt; 1000</i>
+  <i>gradient boosting optimized for small datasets — published on PyPI &amp; Zenodo, outperforms XGBoost/LightGBM at n &lt; 1000</i>
   
   <br><br>
   
