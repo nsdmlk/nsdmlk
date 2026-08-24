@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/Pandas-A8A0C8?style=flat&logo=pandas&logoColor=white&labelColor=8078B0" />
   <img src="https://img.shields.io/badge/NumPy-98A8B8?style=flat&logo=numpy&logoColor=white&labelColor=788898" />
   <img src="https://img.shields.io/badge/SmallGBM-C8B8D0?style=flat&logo=pypi&logoColor=white&labelColor=A898B8" />
+  <img src="https://img.shields.io/badge/PyTorch-C8A8A0?style=flat&logo=pytorch&logoColor=white&labelColor=A87868" />
 
   <h3>🔧 Backend & Tools</h3>
   <img src="https://img.shields.io/badge/FastAPI-B8C8C0?style=flat&logo=fastapi&logoColor=white&labelColor=8EA898" />
@@ -102,6 +103,14 @@
   <i>gradient boosting optimized for small datasets — published on PyPI &amp; Zenodo, outperforms XGBoost/LightGBM at n &lt; 1000</i>
   
   <br><br>
+
+  <a href="https://github.com/nsdmlk/LLM-Toolkit">
+    <img src="https://img.shields.io/badge/Hadron-transformer%20from%20scratch%20%7C%20attention%20%7C%20LLM-FF4500?style=for-the-badge&logo=pytorch&logoColor=white">
+  </a>
+  <br>
+  <i>personal AI assistant built from first principles — Multi-Head Attention, Positional Encoding, Transformer Encoder</i>
+
+  <br><br>
   
   <a href="https://github.com/nsdmlk/sberautopodpiska-ml">
     <img src="https://img.shields.io/badge/SberAutoSubsc-ML%20model%20%7C%20LightGBM%20%7C%20FastAPI%20%7C%20Docker-4B0082?style=for-the-badge&logo=scikitlearn&logoColor=white">
@@ -111,11 +120,11 @@
   
   <br><br>
   
-  <a href="https://github.com/qqwozz/ex_prac">
+  <a href="https://github.com/qqwozz/Rubium">
     <img src="https://img.shields.io/badge/Rubium-web%20platform%20%7C%20Supabase%20%7C%20DeepSeek%20API%20%7C%20Python-2E8B57?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <br>
-  <i>full-stack educational platform — exam prep ecosystem with AI hints, analytics, and collaborative notebooks</i>
+  <i>open-source EdTech startup</i>
 </div>
 
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
