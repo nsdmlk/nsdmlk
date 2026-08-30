@@ -105,10 +105,10 @@
   <br><br>
 
   <a href="https://github.com/nsdmlk/LLM-Toolkit">
-    <img src="https://img.shields.io/badge/Hadron-transformer%20from%20scratch%20%7C%20attention%20%7C%20LLM-FF4500?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/LLM-Core%20from%20scratch%20%7C%20attention%20%7C%20LLM-FF4500?style=for-the-badge&logo=pytorch&logoColor=white">
   </a>
   <br>
-  <i>personal AI assistant built from first principles — Multi-Head Attention, Positional Encoding, Transformer Encoder</i>
+  <i>LLM core built from first principles — Multi-Head Attention, Positional Encoding, Transformer Encoder</i>
 
   <br><br>
   
