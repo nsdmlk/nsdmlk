@@ -8,7 +8,6 @@
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -40,7 +39,11 @@
 </div>
 
 <br>
+<div align="center">
+  <i>· PyPI Contributor ·</i>
+</div>
 
+<br>
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
 <br>
@@ -91,13 +94,15 @@
 
   <br><br>
 
-  <a href="https://pypi.org/project/smallmlp/">
-    <img src="https://img.shields.io/badge/SmallMLP-PyPI%20%7C%20weighted%20conformal%20%7C%20NW%20regression-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
-  </a>
-  <br>
-  <i>SmallMLP: Learned-Bandwidth Nadaraya-Watson Regression with Prediction Intervals for Small Nonlinear Data</i>
-  <br>
-  <i>Emelyanov, I. (2026) · PyPI · preprint in preparation</i>
+
+
+<a href="https://pypi.org/project/smallmlp/">
+  <img src="https://img.shields.io/badge/SmallMLP-PyPI%20%7C%20conformal%20%7C%20regression%20%2B%20classification-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
+</a>
+<br>
+<i>SmallMLP: Learned-Bandwidth Nadaraya-Watson Regression and Kernel Classification with Conformal Prediction</i>
+<br>
+<i>Emelyanov, I. (2026) · PyPI · preprint in preparation</i>
 </div>
 
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
@@ -116,11 +121,10 @@
   <br><br>
 
   <a href="https://github.com/nsdmlk/smallmlp">
-    <img src="https://img.shields.io/badge/SmallMLP-non--parametric%20%7C%20conformal%20intervals%20%7C%20PyPI-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
-  </a>
-  <br>
-  <i>learned-bandwidth Nadaraya-Watson regression with weighted conformal prediction — 25/45 wins on small nonlinear data</i>
-
+  <img src="https://img.shields.io/badge/SmallMLP-non--parametric%20%7C%20conformal%20%7C%20PyPI-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
+</a>
+<br>
+<i>non-parametric regression and classification for small nonlinear data — 25/45 regression wins, 31/32 interval wins, calibrated conformal sets</i>
   <br><br>
 
   <a href="https://github.com/nsdmlk/LLM-Toolkit">
@@ -146,19 +150,7 @@
   <i>open-source EdTech startup</i>
 </div>
 
-<hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
-
 <br>
-
-<div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsdmlk&theme=dracula&hide_border=true&area=true" width="100%">
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bd93f9,50:ff79c6,100:8be9fd&height=4&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
