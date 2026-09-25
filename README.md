@@ -62,7 +62,9 @@
   <img src="https://img.shields.io/badge/scikit--learn-D0B8A0?style=flat&logo=scikit-learn&logoColor=white&labelColor=B89878" />
   <img src="https://img.shields.io/badge/Pandas-A8A0C8?style=flat&logo=pandas&logoColor=white&labelColor=8078B0" />
   <img src="https://img.shields.io/badge/NumPy-98A8B8?style=flat&logo=numpy&logoColor=white&labelColor=788898" />
-  <img src="https://img.shields.io/badge/LightGBM-C8B8D0?style=flat&logo=lightgbm&logoColor=white&labelColor=A898B8" />
+  <img src="https://img.shields.io/badge/C-9CA8B8?style=flat&logo=c&logoColor=white&labelColor=6E7A8C" />
+  <img src="https://img.shields.io/badge/LightGBM-C8B8D0?style=flat&logo=pypi&logoColor=white&labelColor=A898B8" />
+  <img src="https://img.shields.io/badge/XGBoost-C8B8D0?style=flat&logo=pypi&logoColor=white&labelColor=A898B8" />
   <img src="https://img.shields.io/badge/SmallGBM-C8B8D0?style=flat&logo=pypi&logoColor=white&labelColor=A898B8" />
   <img src="https://img.shields.io/badge/SmallMLP-C8B8D0?style=flat&logo=pypi&logoColor=white&labelColor=A898B8" />
 
@@ -94,8 +96,6 @@
 
   <br><br>
 
-
-
 <a href="https://pypi.org/project/smallmlp/">
   <img src="https://img.shields.io/badge/SmallMLP-PyPI%20%7C%20conformal%20%7C%20regression%20%2B%20classification-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
 </a>
@@ -110,24 +110,84 @@
 <br>
 
 <div align="center">
-  <h3>🛠️ Projects</h3>
+  <h3>🛠️ Featured Project — SmallGBM v1.5.0</h3>
   <br>
   <a href="https://github.com/nsdmlk/SmallGBM">
-    <img src="https://img.shields.io/badge/SmallGBM-gradient%20boosting%20%7C%20PyPI%20%7C%20scikit--learn%20compatible-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
+    <img src="https://img.shields.io/badge/SmallGBM-C%20backend%20%7C%20PyPI%20%7C%20scikit--learn%20compatible-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
   </a>
   <br>
-  <i>gradient boosting optimized for small datasets — published on PyPI &amp; Zenodo, outperforms XGBoost/LightGBM at n &lt; 1000</i>
+  <i>gradient boosting optimized for small datasets (n &lt; 1000)</i>
+  <br><br>
+
+  <b>22 datasets · 5-fold CV · mean ROC-AUC · same defaults for all models</b>
 
   <br><br>
+
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Model</th>
+        <th align="right">AUC</th>
+        <th align="right">Fit (ms)</th>
+        <th align="right">Predict (ms)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left"><b>SmallGBM</b></td>
+        <td align="right"><b>0.9101</b></td>
+        <td align="right"><b>13.4</b></td>
+        <td align="right"><b>0.29</b></td>
+      </tr>
+      <tr>
+        <td align="left">XGBoost</td>
+        <td align="right">0.9036</td>
+        <td align="right">36.5</td>
+        <td align="right">0.46</td>
+      </tr>
+      <tr>
+        <td align="left">RandomForest</td>
+        <td align="right">0.9007</td>
+        <td align="right">28.8</td>
+        <td align="right">1.57</td>
+      </tr>
+      <tr>
+        <td align="left">LightGBM</td>
+        <td align="right">0.8958</td>
+        <td align="right">34.3</td>
+        <td align="right">0.57</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br>
+  <i>+0.65% AUC over XGBoost · 2.7× faster fit · 1.6–5× faster inference</i>
+  <br>
+  <i>Robust leaf weights (median + adaptive shrinkage) · stochastic histogram splits</i>
+
+  <br><br>
+  <a href="https://pypi.org/project/smallgbm/">
+    <img src="https://img.shields.io/badge/pip%20install%20smallgbm-8A2BE2?style=flat&logo=pypi&logoColor=white">
+  </a>
+</div>
+
+<hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+
+<br>
+
+<div align="center">
+  <h3>🛠️ Other Projects</h3>
+  <br>
 
   <a href="https://github.com/nsdmlk/smallmlp">
-  <img src="https://img.shields.io/badge/SmallMLP-non--parametric%20%7C%20conformal%20%7C%20PyPI-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
-</a>
-<br>
-<i>non-parametric regression and classification for small nonlinear data — 25/45 regression wins, 31/32 interval wins, calibrated conformal sets</i>
+    <img src="https://img.shields.io/badge/SmallMLP-non--parametric%20%7C%20conformal%20%7C%20PyPI-8A2BE2?style=for-the-badge&logo=pypi&logoColor=white">
+  </a>
+  <br>
+  <i>non-parametric regression and classification for small nonlinear data — 25/45 regression wins, 31/32 interval wins, calibrated conformal sets</i>
+
   <br><br>
 
-  <a href="https://github.com/nsdmlk/LLM-Toolkit">
+  <a href="https://github.com/nsdmlk/LLM-Core">
     <img src="https://img.shields.io/badge/LLM-Core%20from%20scratch%20%7C%20attention%20%7C%20LLM-FF4500?style=for-the-badge&logo=pytorch&logoColor=white">
   </a>
   <br>
@@ -143,7 +203,7 @@
 
   <br><br>
 
-  <a href="https://github.com/qqwozz/Rubium">
+  <a href="https://github.com/qqwzz/Rubium">
     <img src="https://img.shields.io/badge/Rubium-web%20platform%20%7C%20Supabase%20%7C%20DeepSeek%20API%20%7C%20Python-2E8B57?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <br>
