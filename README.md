@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="img/kg.jpg" width="100%" alt="cover">
+<img src="img/kg.jpeg" width="100%" alt="cover">
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=58&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=850&height=90&lines=Kanterville+Ghost" alt="Kanterville Ghost">
+<!-- <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=58&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=850&height=90&lines=Kanterville+Ghost" alt="Kanterville Ghost"> -->
 
-<br />
+<!-- <br />
 
-<sub>☾   MACHINE LEARNING  ·  RESEARCH  ·  PYTHON   ☾</sub>
+<sub>☾   MACHINE LEARNING  ·  RESEARCH  ·  PYTHON   ☾</sub> -->
 
 <br />
 
