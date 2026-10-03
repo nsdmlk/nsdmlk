@@ -18,7 +18,7 @@
   <a href="https://t.me/KantervilleGhost"><img src="https://img.shields.io/badge/TELEGRAM-111111?style=flat-square"></a>
   <a href="https://pypi.org/user/KantervilleGhost/"><img src="https://img.shields.io/badge/PYPI-111111?style=flat-square"></a>
   <a href="https://www.kaggle.com/nsdmlk"><img src="https://img.shields.io/badge/KAGGLE-111111?style=flat-square"></a>
-  <a href="https://github.com/nsdmlk"><img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square"></a>
+  <a href="https://www.instagram.com/kanterville_ghost"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square"></a>
 
 </div>
 
