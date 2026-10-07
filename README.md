@@ -66,7 +66,7 @@ ML researcher and Python developer focused on **small data** and **conformal pre
 
 **0.9101** ROC-AUC  ·  **13.4 ms** fit  ·  **0.29 ms** predict  ·  **22** datasets
 
-<a href="https://github.com/nsdmlk/SmallGBM"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square"></a> <a href="https://pypi.org/project/smallgbm/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square"></a>
+<a href="https://github.com/nsdmlk/SmallGBM"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square"></a> <a href="https://pypi.org/project/smallgbm/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square"></a> <a href="https://github.com/YDX-2147483647/best-of-bits"><img src="https://img.shields.io/badge/BEST_OF_BITS-000000?style=flat-square"></a>
 
 <br /><br />
 
@@ -76,7 +76,7 @@ ML researcher and Python developer focused on **small data** and **conformal pre
 
 **NON-PARAMETRIC**  ·  **CONFORMAL SETS**  ·  **SMALL DATA**
 
-<a href="https://github.com/nsdmlk/smallmlp"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square"></a> <a href="https://pypi.org/project/smallmlp/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square"></a>
+<a href="https://github.com/nsdmlk/smallmlp"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square"></a> <a href="https://pypi.org/project/smallmlp/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square"></a> <a href="https://github.com/YDX-2147483647/best-of-bits"><img src="https://img.shields.io/badge/BEST_OF_BITS-000000?style=flat-square"></a>
 
 </div>
 
