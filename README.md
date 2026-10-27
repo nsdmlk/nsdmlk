@@ -54,7 +54,7 @@
 > `ROC-AUC: 0.9101` | `22 datasets` | `PyPI`
 > 
 > <a href="https://github.com/nsdmlk/SmallGBM"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
-> <a href="https://doi.org/10.5281/zenodo.21934674"><img src="https://img.shields.io/badge/PREPRINT-000000?style=flat-square&logo=zenodo&logoColor=white"></a>
+> <a href="https://pepy.tech/projects/smallgbm"><img src="https://static.pepy.tech/personalized-badge/smallgbm?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREY&left_text=downloads" alt="Downloads"></a>
 > <a href="https://github.com/YDX-2147483647/best-of-bits"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YDX-2147483647/best-of-bits/main/config/badge/v1.json" alt="Best of BITs"></a>
 
 <br>
@@ -67,6 +67,7 @@
 > `25/45 wins` | `31/32 wins (width)` | `PyPI`
 > 
 > <a href="https://github.com/nsdmlk/SmallMLP"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
+> <a href="https://pepy.tech/projects/smallmlp"><img src="https://static.pepy.tech/personalized-badge/smallmlp?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREY&left_text=downloads" alt="Downloads"></a>
 > <a href="https://github.com/YDX-2147483647/best-of-bits"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YDX-2147483647/best-of-bits/main/config/badge/v1.json" alt="Best of BITs"></a>
 
 <br>
