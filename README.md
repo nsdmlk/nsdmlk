@@ -8,7 +8,7 @@
 
   <sub>☾ &nbsp; MACHINE LEARNING &nbsp; · &nbsp; RESEARCH &nbsp; · &nbsp; PYTHON &nbsp; ☾</sub>
   
-  <br><br>
+  <br>
   
   <a href="https://github.com/nsdmlk"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://t.me/KantervilleGhost"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=flat-square&logo=telegram&logoColor=white"></a>
@@ -16,11 +16,9 @@
   <a href="https://pypi.org/user/KantervilleGhost/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=1&section=header&text=&fontSize=0" width="100%">
-</div>
+---
 
 <br>
 
@@ -35,11 +33,9 @@
   <p>I build open-source libraries that bridge the gap between theoretical guarantees and practical implementations — from robust gradient boosting to calibrated neural networks. When I'm not writing code, I'm reading papers or solving integrals.</p>
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=1&section=header&text=&fontSize=0" width="100%">
-</div>
+---
 
 <br>
 
@@ -81,11 +77,9 @@
 > 
 > [→ Source](https://github.com/nsdmlk/RL-from-scratch)
 
-<br><br>
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=1&section=header&text=&fontSize=0" width="100%">
-</div>
+---
 
 <br>
 
@@ -96,11 +90,9 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,c,docker,fastapi,git,linux,bash,latex&perline=15" alt="Tech Stack" />
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=1&section=header&text=&fontSize=0" width="100%">
-</div>
+---
 
 <br>
 
