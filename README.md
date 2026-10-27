@@ -53,7 +53,9 @@
 > 
 > `ROC-AUC: 0.9101` | `22 datasets` | `PyPI`
 > 
-> [→ Source](https://github.com/nsdmlk/SmallGBM) · [→ Paper (Zenodo)](https://doi.org/10.5281/zenodo.21934674)
+> <a href="https://github.com/nsdmlk/SmallGBM"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
+> <a href="https://doi.org/10.5281/zenodo.21934674"><img src="https://img.shields.io/badge/PREPRINT-000000?style=flat-square&logo=zenodo&logoColor=white"></a>
+> <a href="https://github.com/YDX-2147483647/best-of-bits"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YDX-2147483647/best-of-bits/main/config/badge/v1.json" alt="Best of BITs"></a>
 
 <br>
 
@@ -64,7 +66,8 @@
 > 
 > `25/45 wins` | `31/32 wins (width)` | `PyPI`
 > 
-> [→ Source](https://github.com/nsdmlk/SmallMLP) · [→ Preprint (in prep)](https://github.com/nsdmlk/SmallMLP)
+> <a href="https://github.com/nsdmlk/SmallMLP"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
+> <a href="https://github.com/YDX-2147483647/best-of-bits"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YDX-2147483647/best-of-bits/main/config/badge/v1.json" alt="Best of BITs"></a>
 
 <br>
 
@@ -75,7 +78,7 @@
 > 
 > `DQN` | `Double DQN` | `Dueling DQN`
 > 
-> [→ Source](https://github.com/nsdmlk/RL-from-scratch)
+> <a href="https://github.com/nsdmlk/RL-from-scratch"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
 
 <br>
 
