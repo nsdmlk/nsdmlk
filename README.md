@@ -101,11 +101,9 @@
 <br>
 
 <!-- ═══════════════ STATS ═══════════════ -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nsdmlk&show_icons=true&theme=dark&bg_color=000000&border_color=222222&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa&hide_rank=true&hide_title=true" width="400" />
-</div>
-
-<br>
+</div> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=there+is+always+another+experiment." alt="Footer">
