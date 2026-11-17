@@ -14,6 +14,7 @@
   <a href="https://t.me/KantervilleGhost"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=flat-square&logo=telegram&logoColor=white"></a>
   <a href="mailto:nsdmlk@yandex.ru"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://pypi.org/user/KantervilleGhost/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0002-6802-7544"><img src="https://img.shields.io/badge/ORCID-000000?style=flat-square&logo=orcid&logoColor=white"></a>
 </div>
 
 <br>
@@ -30,7 +31,7 @@
 <div align="justify">
   <p>CS student at <b>Beijing Institute of Technology</b>. I research how models learn when data is scarce, focusing on <b>small-sample learning</b>, <b>conformal prediction</b>, and <b>reinforcement learning</b>.</p>
   
-  <p>I build open-source libraries that bridge the gap between theoretical guarantees and practical implementations — from robust gradient boosting to calibrated neural networks. When I'm not writing code, I'm reading papers or solving integrals.</p>
+  <p>I build open-source libraries that bridge the gap between theoretical guarantees and practical implementations — from robust gradient boosting to calibrated neural networks.</p>
 </div>
 
 <br>
@@ -46,33 +47,46 @@
 
 <br>
 
-> **Ⅰ. SmallGBM**
-> *Gradient boosting for small datasets*
+> **Ⅰ. Small Data Machine Learning (Paper)**
+> *Fundamental Challenges and Targeted Solutions*
 > 
-> A gradient boosting implementation focused on tabular learning when data is scarce. Native C core, robust leaf regularization.
+> The theoretical foundation of Small Data. Formalizes the "Trilemma of Small Data" (variance, bias, and uncertainty under validation depletion) and evaluates the exact scaling boundaries where standard models fail.
 > 
-> `ROC-AUC: 0.9101` | `22 datasets` | `PyPI`
+> <a href="https://github.com/nsdmlk/SmallData_paper"><img src="https://img.shields.io/badge/PAPER_REPO-000000?style=flat-square&logo=github&logoColor=white"></a>
+
+<br>
+
+> **Ⅱ. SmallGBM**
+> *Robust gradient boosting for tabular data (n < 1000)*
+> 
+> Replaces fragile mean-based second-order Taylor approximations with robust median leaf estimation. Built with a native C core (256-bin histograms) for 2-3x faster training.
+> 
+> - `Outperforms XGBoost and LightGBM on 22 small datasets`
+> - `Limits AUC degradation to 3.7x less than XGBoost under 20% label corruption`
 > 
 > <a href="https://github.com/nsdmlk/SmallGBM"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
+> <a href="https://pypi.org/project/smallgbm/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
 > <a href="https://pepy.tech/projects/smallgbm"><img src="https://static.pepy.tech/personalized-badge/smallgbm?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREY&left_text=downloads" alt="Downloads"></a>
 > <a href="https://github.com/YDX-2147483647/best-of-bits"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YDX-2147483647/best-of-bits/main/config/badge/v1.json" alt="Best of BITs"></a>
 
 <br>
 
-> **Ⅱ. SmallMLP**
-> *Non-parametric regression & conformal sets*
+> **Ⅲ. SmallMLP**
+> *Adaptive neural networks with calibrated conformal intervals (n < 500)*
 > 
-> Adaptive MLP that replaces manual architecture search with dataset-derived hyperparameters, producing calibrated prediction intervals.
+> Eliminates manual architecture search by deriving layer width and dropout directly from dataset geometry. Produces prediction intervals with finite-sample coverage guarantees.
 > 
-> `25/45 wins` | `31/32 wins (width)` | `PyPI`
+> - `Best mean rank among 10 models on 18 datasets (zero-tuning)`
+> - `Produces 19% narrower intervals than split conformal at equal coverage`
 > 
 > <a href="https://github.com/nsdmlk/SmallMLP"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
+> <a href="https://pypi.org/project/smallmlp/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
 > <a href="https://pepy.tech/projects/smallmlp"><img src="https://static.pepy.tech/personalized-badge/smallmlp?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREY&left_text=downloads" alt="Downloads"></a>
 > <a href="https://github.com/YDX-2147483647/best-of-bits"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YDX-2147483647/best-of-bits/main/config/badge/v1.json" alt="Best of BITs"></a>
 
 <br>
 
-> **Ⅲ. RL-from-scratch**
+> **Ⅳ. RL-from-scratch**
 > *Value-based reinforcement learning*
 > 
 > Implementing algorithms from first principles to understand the mechanics behind agents, rather than treating them as black boxes.
