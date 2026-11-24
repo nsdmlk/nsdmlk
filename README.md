@@ -15,7 +15,6 @@
   <a href="mailto:nsdmlk@yandex.ru"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://pypi.org/user/KantervilleGhost/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
   <a href="https://orcid.org/0009-0002-6802-7544"><img src="https://img.shields.io/badge/ORCID-000000?style=flat-square&logo=orcid&logoColor=white"></a>
-</div>
 
 <br>
 
@@ -48,11 +47,13 @@
 <br>
 
 > **Ⅰ. Small Data Machine Learning (Paper)**
-> *Fundamental Challenges and Targeted Solutions*
+> *The Trilemma of Low-Sample Tabular Regimes*
 > 
 > The theoretical foundation of Small Data. Formalizes the "Trilemma of Small Data" (variance, bias, and uncertainty under validation depletion) and evaluates the exact scaling boundaries where standard models fail.
 > 
-> <a href="https://github.com/nsdmlk/SmallData_paper"><img src="https://img.shields.io/badge/PAPER_REPO-000000?style=flat-square&logo=github&logoColor=white"></a>
+> <a href="https://arxiv.org/abs/2611.30118"><img src="https://img.shields.io/badge/ARXIV-2611.30118-000000?style=flat-square&logo=arxiv&logoColor=white"></a>
+> <a href="https://doi.org/10.48550/arXiv.2611.30118"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2611.30118-000000?style=flat-square&logo=doi&logoColor=white"></a>
+> <a href="https://github.com/nsdmlk/SmallData-Trilemma"><img src="https://img.shields.io/badge/PAPER_REPO-000000?style=flat-square&logo=github&logoColor=white"></a>
 
 <br>
 
@@ -61,8 +62,8 @@
 > 
 > Replaces fragile mean-based second-order Taylor approximations with robust median leaf estimation. Built with a native C core (256-bin histograms) for 2-3x faster training.
 > 
-> - `Outperforms XGBoost and LightGBM on 22 small datasets`
-> - `Limits AUC degradation to 3.7x less than XGBoost under 20% label corruption`
+> `Outperforms XGBoost and LightGBM on 22 small datasets`
+> `Limits AUC degradation to 3.7x less than XGBoost under 20% label corruption`
 > 
 > <a href="https://github.com/nsdmlk/SmallGBM"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
 > <a href="https://pypi.org/project/smallgbm/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
@@ -76,8 +77,8 @@
 > 
 > Eliminates manual architecture search by deriving layer width and dropout directly from dataset geometry. Produces prediction intervals with finite-sample coverage guarantees.
 > 
-> - `Best mean rank among 10 models on 18 datasets (zero-tuning)`
-> - `Produces 19% narrower intervals than split conformal at equal coverage`
+> `Best mean rank among 10 models on 18 datasets (zero-tuning)`
+> `Produces 19% narrower intervals than split conformal at equal coverage`
 > 
 > <a href="https://github.com/nsdmlk/SmallMLP"><img src="https://img.shields.io/badge/SOURCE-000000?style=flat-square&logo=github&logoColor=white"></a>
 > <a href="https://pypi.org/project/smallmlp/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
@@ -120,7 +121,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=there+is+always+another+experiment." alt="Footer">
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&lines=there+is+always+another+experiment." alt="Footer">
   <br>
   <sub>☾ &nbsp; BEIJING · CHINA · 2026 &nbsp; ☾</sub>
 </div>
