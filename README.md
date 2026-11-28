@@ -16,7 +16,6 @@
   <a href="https://pypi.org/user/KantervilleGhost/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
   <a href="https://orcid.org/0009-0002-6802-7544"><img src="https://img.shields.io/badge/ORCID-000000?style=flat-square&logo=orcid&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=y7vDMmEAAAAJ"><img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-000000?style=flat-square&logo=google-scholar&logoColor=white"></a>
-  <a href="https://arxiv.org/abs/2611.30118"><img src="https://img.shields.io/badge/arXiv-2611.30118-000000?style=flat-square&logo=arxiv&logoColor=white"></a>
 
 <br>
 
