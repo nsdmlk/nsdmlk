@@ -12,9 +12,10 @@
   
   <a href="https://github.com/nsdmlk"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://t.me/KantervilleGhost"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=flat-square&logo=telegram&logoColor=white"></a>
-  <a href="mailto:nsdmlk@yandex.ru"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://pypi.org/user/KantervilleGhost/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0002-6802-7544"><img src="https://img.shields.io/badge/ORCID-000000?style=flat-square&logo=orcid&logoColor=white"></a>
+<a href="mailto:nsdmlk@yandex.ru"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://pypi.org/user/KantervilleGhost/"><img src="https://img.shields.io/badge/PYPI-000000?style=flat-square&logo=pypi&logoColor=white"></a>
+<a href="https://orcid.org/0009-0002-6802-7544"><img src="https://img.shields.io/badge/ORCID-000000?style=flat-square&logo=orcid&logoColor=white"></a>
+<a href="https://scholar.google.com/citations?user=y7vDMmEAAAAJ"><img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-000000?style=flat-square&logo=google-scholar&logoColor=white"></a>
 
 <br>
 
